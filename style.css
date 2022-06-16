@@ -1,0 +1,32 @@
+.header {
+    background-color: #E9967A;
+    font-family: 'Courier New', Courier, monospace;
+    display:flex;
+    justify-content: space-between;
+    border:solid
+}
+
+.grid {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    border:solid;
+}
+
+.footer {
+    display:flex;
+    justify-content: flex-end;
+    border: solid;
+}
+
+p {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    border:solid;
+}
+
+body{
+    background-color: #F3F3F3;
+}
+
